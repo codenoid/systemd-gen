@@ -1,5 +1,7 @@
 # systemd-gen
 
+![cool systemd logo](https://raw.githubusercontent.com/codenoid/systemd-gen/master/systemd-logo.png)
+
 ## Download
 
 1. Download binary (Built on Ubuntu 18.04) from [release page](https://github.com/codenoid/systemd-gen/releases/download/0.0.1/systemd-gen)
